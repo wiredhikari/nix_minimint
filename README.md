@@ -1,0 +1,1 @@
+./deploy-qemu-vm.sh -i
