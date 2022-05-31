@@ -1,1 +1,4 @@
-./deploy-qemu-vm.sh -i
+### Starting nix-bitcoin
+
+* ./deploy-qemu-vm.sh -i
+* c
